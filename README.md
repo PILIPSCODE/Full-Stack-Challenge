@@ -107,9 +107,7 @@ migration
    ```bash
    SOURCE path/to/seeder.sql;
   
-Jalankan Backend :
-   ```bash
-   npm start
+Jalankan Backend : npm start
 
 ## 📍 ENDPOINT API
 
