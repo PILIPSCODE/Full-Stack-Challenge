@@ -74,8 +74,8 @@ hasil:
 menggunakan xampp
 1. Clone repositori:
    ```bash
-   git clone https://github.com/username/repo-name.git
-    cd backend
+   git clone https://github.com/PILIPSCODE/Full-Stack-Challenge.git
+   cd backend
 2. Install Package :
    ```bash
    npm install 
