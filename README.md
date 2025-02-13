@@ -53,8 +53,9 @@ buat API saja tanpa perlu UI).
 - Frontend
 1. Clone repositori:
    ```bash
-   git clone https://github.com/username/repo-name.git
-    cd frontend
+   git clone https://github.com/PILIPSCODE/Full-Stack-Challenge.git
+   cd Full-Stack-Challenge
+   cd frontend
 2. Install Package :
    ```bash
    npm install 
@@ -75,6 +76,7 @@ menggunakan xampp
 1. Clone repositori:
    ```bash
    git clone https://github.com/PILIPSCODE/Full-Stack-Challenge.git
+    cd Full-Stack-Challenge
    cd backend
 2. Install Package :
    ```bash
